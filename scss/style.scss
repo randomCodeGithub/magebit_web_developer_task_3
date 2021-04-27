@@ -7,7 +7,7 @@
   margin: 0;
   padding: 0;
 }
-// TEXT STYLE
+
 h2 {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: #131821;
@@ -24,7 +24,6 @@ p {
   font-weight: normal;
 }
 
-//SUBSCRIBE LIST PAGE
 main {
   &.subscriber-list {
     display: block;
@@ -125,7 +124,7 @@ main,
   background-repeat: no-repeat;
   flex-grow: 1;
 }
-// MAIN PAGE
+
 .subscribe {
   display: flex;
   align-items: center;
@@ -174,6 +173,7 @@ main,
           @each $name, $color in $icons-hover {
             &.#{$name} {
               background-color: $color;
+              border-color: $color;
             }
           }
         }
@@ -182,6 +182,7 @@ main,
           @each $name, $color in $icons-active {
             &.#{$name} {
               background-color: $color;
+              border-color: $color;
             }
           }
         }
