@@ -6,10 +6,10 @@
 2. Clone to the your web server location, in xampp htdocs folder (C:\xampp\htdocs\).
 ```bash git clone https://github.com/randomCodeGithub/product-mangament.git```
 3. Open XAMPP and click 'start' button to 'appache' and 'Mysql' modules.
-4. go to browser and write in the address bar 'localhost/phpmyadmin/';
-5. go to 'import' at navigation;
-6. in the field 'File to import' browse 'subscription.sql' file from project and click 'Go' button
-7. go to 'localhost/project_name';
+4. Go to browser and write in the address bar 'localhost/phpmyadmin/';
+5. Go to 'import' at navigation;
+6. In the field 'File to import' browse 'subscription.sql' file from project and click 'Go' button
+7. Go to 'localhost/project_name';
 8. If there is a problem with database, check 'dbParams.php' in 'project_name/config'
 
 ## Used technologies
