@@ -1,5 +1,10 @@
 # Magebit (Web developer test) TASK 3
 
+## Site for testing
+
+1. EMAIL REGISTRATION (http://mybackendworks.epizy.com/subscriber_inboxes/)
+2. SUBSCRIBER LIST (http://mybackendworks.epizy.com/subscriber_inboxes/subscriber-list)
+
 ## Installation
 
 1. Use web-server(XAMPP was used)

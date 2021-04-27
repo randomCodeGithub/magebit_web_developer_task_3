@@ -28,7 +28,7 @@
                         </div>
                     </div>
                     <!-- CUSTOM CHECKBOX BLOCK -->
-                    <div class="checkbox">
+                    <div class="checkbox" style="position: relative;">
                         <label>
                             <input id="terms" type="checkbox" name="terms" value="">
                             <span class="custom-checkbox"><i class="icon-check"></i></span>
@@ -36,6 +36,9 @@
                                 I agree to <a href="#">terms of service</a>
                             </p>
                         </label>
+                        <p style="position: absolute; width: 100%; text-align:center; bottom: -30px; font-family: Arial, Helvetica, sans-serif;">
+                            <a style="text-decoration: none; color:green;" href="<?php echo BASE_ROOT; ?>/subscriber-list" target="_blank">SUBSCRIBER LIST</a>
+                        </p>
                     </div>
 
                 </form>
