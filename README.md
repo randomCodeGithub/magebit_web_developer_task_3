@@ -4,7 +4,7 @@
 
 1. Use web-server(XAMPP was used)
 2. Clone to the your web server location, in xampp htdocs folder (C:\xampp\htdocs\).
-```bash git clone https://github.com/randomCodeGithub/product-mangament.git```
+```git clone https://github.com/randomCodeGithub/magebit_web_developer_task_3.git```
 3. Open XAMPP and click 'start' button to 'appache' and 'Mysql' modules.
 4. Go to browser and write in the address bar 'localhost/phpmyadmin/';
 5. Go to 'import' at navigation;
