@@ -9,7 +9,7 @@
 4. Go to browser and write in the address bar 'localhost/phpmyadmin/';
 5. Go to 'import' at navigation;
 6. In the field 'File to import' browse 'subscription.sql' file from project and click 'Go' button
-7. Go to 'localhost/project_name';
+7. Go to 'localhost/project_folder_name';
 8. If there is a problem with database, check 'dbParams.php' in 'project_name/config'
 
 ## Used technologies
