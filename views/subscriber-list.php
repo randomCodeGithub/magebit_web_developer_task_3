@@ -75,7 +75,7 @@
 
                 <?php endforeach; ?>
 
-                <!-- if product array is empty -->
+                <!-- if subscriber array is empty -->
             <?php else : ?>
                 <tr>
                     <td colspan="3">
